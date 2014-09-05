@@ -1,0 +1,2 @@
+module LatestUsersSetupHelper
+end
